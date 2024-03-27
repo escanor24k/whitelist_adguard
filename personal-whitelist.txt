@@ -3,3 +3,6 @@
 @@||callofduty.monsterenergy.com^$important
 @@||url7474.monsterenergy.com^$important
 @@||u.gg^$important
+@@||saa.cbsi.com^$important
+@@||cbsinteractive.hb.omtrdc.net^$important
+@@||vod-gcs-cedexis.cbsaavideo.com^$important
