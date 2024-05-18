@@ -8,3 +8,6 @@
 @@||vod-gcs-cedexis.cbsaavideo.com^$important
 @@||intl.paramountplus.com^$important
 @@||paramountplus.com^important
+@@||saa.cbsi.com^$important
+@@||cbsinteractive.hb.omtrdc.net^$important
+@@||vod-gcs-cedexis.cbsaavideo.com^$important
