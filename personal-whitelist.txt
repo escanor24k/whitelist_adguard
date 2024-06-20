@@ -11,3 +11,4 @@
 @@||saa.cbsi.com^$important
 @@||cbsinteractive.hb.omtrdc.net^$important
 @@||vod-gcs-cedexis.cbsaavideo.com^$important
+@@sparrow.paramountplus.com/streamer/*$xhr,domain=www.paramountplus.com
