@@ -13,3 +13,4 @@
 @@||vod-gcs-cedexis.cbsaavideo.com^$important
 @@sparrow.paramountplus.com/streamer/*$xhr,domain=www.paramountplus.com
 @@||u.gg^$important
+@@||crunchyroll.com^$important
