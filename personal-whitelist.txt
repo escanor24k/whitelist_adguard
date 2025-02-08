@@ -17,3 +17,4 @@
 @@||filterblade.xyz^$important
 @@||sophos.com^$important
 @@||cloud.sophos.com^$important
+@@||*^$client=192.168.178.62
