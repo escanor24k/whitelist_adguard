@@ -19,3 +19,4 @@
 @@||cloud.sophos.com^$important
 @@||*^$client=192.168.178.62
 @@||l.klarna.com^$important
+@@||trk.send.email.holy.com^$important
